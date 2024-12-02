@@ -103,12 +103,12 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/cucumber-pickle/BlumCum.git
+   https://github.com/unpredictablemahi/Blumbot.git
    ```
 
 3. Enter the BlumCum folder
    ```
-   cd BlumCum
+   cd Blumbot
    ```
 
 4. Install the required modules/libraries.
@@ -140,12 +140,12 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/cucumber-pickle/BlumCum.git
+   https://github.com/unpredictablemahi/Blumbot.git
    ```
 
 3. Enter the BlumCum folder
    ```
-   cd BlumCum
+   cd Blumbot
    ```
 
 4. Install the required modules/libraries.
@@ -177,12 +177,12 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/cucumber-pickle/BlumCum.git
+   https://github.com/unpredictablemahi/Blumbot.git
    ```
 
 3. Enter the BlumCum folder
    ```
-   cd BlumCum
+   cd Blumbot
    ```
 
 4. Install the required modules/libraries.
